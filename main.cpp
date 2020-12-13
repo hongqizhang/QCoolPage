@@ -5,12 +5,11 @@
 
 int main(int argc, char *argv[])
 {
-    QApplication::setAttribute(Qt::AA_EnableHighDpiScaling);
     QApplication a(argc, argv);
 
-    MainWindow w;
-    LOADQSS(GlobalSpace::BLACK_QSS_FILE_PATH);
-    w.show();
+    MainWindow mainwindow;
+    LOADQSS(GlobalSpace::STYLE_QSS_FILE_PATH);
+    mainwindow.showNormal();
 
     return a.exec();
 }

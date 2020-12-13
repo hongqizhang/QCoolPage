@@ -7,27 +7,45 @@
 > * 面板
 > * 坐标系
 > * 可移动按钮
+> * 表格
+> * 移动进度
+> * 三维模型
 
 ## 轮播图示例
-![](https://github.com/YYC572652645/QCoolPage/raw/master/mkres/banna.png)
+![](https://img-blog.csdnimg.cn/20200429221530217.png)
 
 ## 柱状图示例
-![](https://github.com/YYC572652645/QCoolPage/raw/master/mkres/cylinder.png)
+![](https://img-blog.csdnimg.cn/20200429221552444.png)
 
 ## 进度条示例
-![](https://github.com/YYC572652645/QCoolPage/raw/master/mkres/slider.png)
+![](https://img-blog.csdnimg.cn/20200429221559927.png)
 
 ## 面板示例
-![](https://github.com/YYC572652645/QCoolPage/raw/master/mkres/frame.png)
+![](https://img-blog.csdnimg.cn/20200429221614736.png)
 
 ## 坐标系示例
-![](https://github.com/YYC572652645/QCoolPage/raw/master/mkres/plot.png)
+![](https://img-blog.csdnimg.cn/20200429221620314.png)
 
-## 可移动按钮
-![](https://github.com/YYC572652645/QCoolPage/raw/master/mkres/movebutton.png)
+## 可移动按钮示例
+![](https://img-blog.csdnimg.cn/20200429221630226.png)
+
+## 表格示例
+![](https://img-blog.csdnimg.cn/20200429221703164.png)
+
+## 移动进度示例
+![](https://img-blog.csdnimg.cn/20200429221845482.png)
+
+## 三维模型示例
+![](https://img-blog.csdnimg.cn/20200716084556704.png)
+
+## 开源不易，请作者喝杯奶茶
+![](https://img-blog.csdnimg.cn/20200716085321356.png)
+
+## CSDN网址： 
+https://blog.csdn.net/yinyuchen1/article/details/100639853
 
 ## 项目简介
 作者:`灏夏星辰` 
-2019年11月15日  
+2020年07月18日  
 持续更新中...
 
